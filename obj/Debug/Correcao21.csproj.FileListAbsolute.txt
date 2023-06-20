@@ -1,0 +1,7 @@
+C:\Users\bruno.mapinheiro\source\repos\Correcao21\Correcao21\bin\Debug\Correcao21.exe.config
+C:\Users\bruno.mapinheiro\source\repos\Correcao21\Correcao21\bin\Debug\Correcao21.exe
+C:\Users\bruno.mapinheiro\source\repos\Correcao21\Correcao21\bin\Debug\Correcao21.pdb
+C:\Users\bruno.mapinheiro\source\repos\Correcao21\Correcao21\obj\Debug\Correcao21.csproj.AssemblyReference.cache
+C:\Users\bruno.mapinheiro\source\repos\Correcao21\Correcao21\obj\Debug\Correcao21.csproj.CoreCompileInputs.cache
+C:\Users\bruno.mapinheiro\source\repos\Correcao21\Correcao21\obj\Debug\Correcao21.exe
+C:\Users\bruno.mapinheiro\source\repos\Correcao21\Correcao21\obj\Debug\Correcao21.pdb
